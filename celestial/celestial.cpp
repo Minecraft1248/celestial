@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	cout << "Celestial v0.0.1-alpha.0" << endl;
 	return 0;
 }

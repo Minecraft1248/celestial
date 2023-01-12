@@ -1,10 +1,9 @@
 #pragma once
 
+#include <stdint.h>
+
 #ifndef _H_CELESTIAL_KEYWORD
 #define _H_CELESTIAL_KEYWORD
-
-#include <stdint.h>
-#include <string>
 
 namespace celestial
 {
